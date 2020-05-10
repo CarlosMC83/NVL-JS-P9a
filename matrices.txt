@@ -1,0 +1,15 @@
+
+1. Indicar la longitud del Array
+
+var a = [16, 23, 34, 41, 59];alert(a.length);
+
+
+
+2. Indica la longitud de uno de los elementos del array
+
+var a = [16, 23, 34, 41, 59];alert(a[0]);
+
+
+3. Muestra por pantalla el valor del tercer elemento de la lista del array. Y dentro de ese tercer elemento, su segundo elemento.
+
+var a = [16, 23, [3,4], 41, 59];alert(a[2][1]);
